@@ -22,7 +22,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2744035745
 | `Q` + `Linksklick` | Jagen |
 | `Strg` + `Q` | Schnelles Jagen |
 | `F` + `Linksklick` | Schnelles Bewegen (Fahrzeuge) |
-| `U` | Abladen (Transportfahrzeuge) |
+| `U` | An gewählter Position abladen (Transportfahrzeuge) |
 | `Y` + `Linksklick` | An aktueller Position abladen |
 | `T` | An (gewählter/aktueller?) Position feuern |
 | `Strg` + `H` | Effizienter Schuss |
@@ -34,6 +34,29 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2744035745
 | `C` | Zeigt eine Karte an der Position des Mauszeigers an, die die Sichtlinie der Truppen darstellt. |
 | `N` | Autodeckung (de-)aktivieren |
 
+## Deployment type
+
+- Balanced
+- Vanguard
+- Maverick
+
+These are generally for team play:
+
+- Juggernaut
+- Flat line: even in team mode very bad
+- V for victory
+
 ## Tipps
 
-- Waffen deaktivieren von Truppen (Micromanagement)
+### Menü und Tasten
+
+- Durch das Halten von `Shift` können mehrere Truppen auf einmal platziert werden.
+- Am Anfang des Spiels sollte `Show all orders` aktiviert werden.
+- Nicht zu lange warten, wenn man Truppen zurückziehen möchte (`R`).
+
+### Sonstiges
+
+- Waffen deaktivieren von Truppen (Micromanagement) ermöglicht gezielten Einsatz bestimmter Waffen.
+  - Unter Umständen kann es auch dazu kommen, dass Munition unnötig verschwendet wird.
+- Deutsche Maschinengewehre sind prinzipiell gesehen stärker und gewinnen standardmäßig auf Reichweite. Jedoch sind sowjetische Infanterietruppen meistens auf Nahkampf stärker.
+- Wenn die Panzerung hoch und die Penetration bei einem Panzer gering ist, sollte mit einem Gegnerpanzer auf Nahkampf angegriffen werden.
